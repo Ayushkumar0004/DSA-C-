@@ -137,5 +137,6 @@ public class prac
             System.out.println("Array elements " + i + " are : " + arr[i]);
         }
         BubbleSort(arr, n);
+        sc.close();
     }
 }
